@@ -24,7 +24,7 @@
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
     "liebling": "github:snathjr/liebling",
-    "custom-theme":"github:tanamettpk/statenext-blog-theme"
+    "statenext-blog-theme":"github:tanamettpk/statenext-blog-theme"
   },
   "engines": {
     "node": "10.X"
