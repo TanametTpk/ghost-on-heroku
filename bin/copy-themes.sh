@@ -9,6 +9,7 @@ themes=(
         pico
         lyra
 	liebling
+	statenext-theme
 )
 
 for theme in "${themes[@]}"

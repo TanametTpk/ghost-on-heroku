@@ -20,10 +20,11 @@
     "massively": "github:tryghost/massively#1.0.2",
     "mysql": "^2.17.1",
     "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
-    "vapor": "github:tanamettpk/statenext-blog-theme",
+    "vapor": "github:sethlilly/Vapor#v1.6.0",
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
-    "liebling": "github:snathjr/liebling"
+    "liebling": "github:snathjr/liebling",
+    "statenext-theme":"github:tanamettpk/statenext-blog-theme"
   },
   "engines": {
     "node": "10.X"
